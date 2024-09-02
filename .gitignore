@@ -1,3 +1,20 @@
+######################
+# Node
+######################
+/node/
+node_tmp/
+node_modules/
+npm-debug.log.*
+/.awcache/*
+/.cache-loader/*
+
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+
+
 # Logs
 logs
 *.log
