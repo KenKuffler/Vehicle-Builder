@@ -305,7 +305,7 @@ class Cli {
             this.startCli();
             return;
           } else {
-            this.exit = true;
+            this.performActions();
           }
         }
 
