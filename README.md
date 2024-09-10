@@ -19,6 +19,8 @@ To install this application, go to the github repository "Vehicle-Builder" locat
 ## Usage
 To use the application, use your terminal to move to the applications directory. Then input the terminal command, "npm start". As a user, you will then be prompted to create a new vehicle, or choose from an existing vehicle. What happens after, is up to the selections the user makes! For a video tutorial on both installation and a brief overview of usage, watch the embedded tutorial video below.
 
+[![Demo](./Screenshot%20(18).png)](./Vehicle%20Builder%20Tutorial.webm)
+
 ## Contribution
 Thank you for any interest in helping, however no contributions are being accepted at this time.
 
